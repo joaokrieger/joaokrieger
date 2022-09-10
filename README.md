@@ -27,6 +27,5 @@ hi, I'm João Eduardo Krieger a passionate developer and a future software engin
 
 📈 my github stats
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=joaokrieger&show_icons=true&theme=gotham" alt="joaokrieger"/> 
-
+<img src="https://github-readme-stats.vercel.app/api?username=joaokrieger&show_icons=true&theme=gotham" alt="joaokrieger"/> 
  [![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=joaokrieger&layout=compact&theme=gotham)](https://github.com/joaokrieger/github-readme-stats)
