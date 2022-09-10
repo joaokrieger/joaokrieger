@@ -15,7 +15,7 @@ hi, I'm João Eduardo Krieger a passionate developer and a future software engin
   
 - 💬 ask me about anything, i am happy to help: [email](mailto:joaoeduardokrieger123@gmail.com) :)
 
-![code](https://user-images.githubusercontent.com/85263476/189502177-642c95ae-4f10-4282-8abc-b36e19b35e8d.gif)
+![code](https://user-images.githubusercontent.com/85263476/189502272-a4e88944-ae47-477f-9521-18560d40beb2.gif)
 
 **languages and tools:**
 
