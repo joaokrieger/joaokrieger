@@ -29,4 +29,4 @@ hi, I'm João Eduardo Krieger a passionate developer and a future software engin
 
 ![Karanalpe Status](https://github-readme-stats.vercel.app/api?username=joaokrieger&show_icons=true&theme=gotham)
 
- [![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=joaokrieger&layout=compact&theme=gotham)](https://github.com/joaokrieger/github-readme-stats)
+[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=joaokrieger&layout=compact&theme=gotham)](https://github.com/joaokrieger/github-readme-stats)
