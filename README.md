@@ -13,8 +13,9 @@
 
 hi, I'm João Eduardo Krieger a passionate developer and a future software engineer. my passion for software is dreaming up ideas and making them come true with elegant interfaces. I take great care with the experience, architecture, and code quality of the things I build.
   
-- 💬 ask me about anything, i am happy to help:
-[email](mailto:joaoeduardokrieger123@gmail) :)
+- 💬 ask me about anything, i am happy to help: [email](mailto:joaoeduardokrieger123@gmail.com) :)
+
+![code](https://user-images.githubusercontent.com/85263476/189502177-642c95ae-4f10-4282-8abc-b36e19b35e8d.gif)
 
 **languages and tools:**
 
