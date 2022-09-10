@@ -15,7 +15,8 @@ hi, I'm João Eduardo Krieger a passionate developer and a future software engin
   
 - 💬 ask me about anything, i am happy to help; [email](mailto:joaoeduardokrieger123@gmail) :)
 
-**languages and tools:**  
+**languages and tools:**
+
 <code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"></code>
 <code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg"></code>
 <code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg"></code>
