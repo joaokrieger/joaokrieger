@@ -25,7 +25,7 @@ hi, I'm João Eduardo Krieger a passionate developer and a future software engin
 <code><img height="20" title="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"></code>
 <code><img height="20" title="Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"></code>
 
-📈 my github stats
+📈 my github stats 
 
 ![Karanalpe Status](https://github-readme-stats.vercel.app/api?username=joaokrieger&show_icons=true&theme=gotham)
 [![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=joaokrieger&layout=compact&theme=gotham)](https://github.com/joaokrieger/github-readme-stats)
