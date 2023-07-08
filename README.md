@@ -1,12 +1,5 @@
 ## Hey! Welcome to my Github profile.
 
-<a href="https://www.instagram.com/joao_krieger/">
-  <img align="left" alt="joaokrieger's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
-</a>
-<a href="https://www.linkedin.com/in/joao-krieger/">
-  <img align="left" alt="joaokrieger's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
-
 ![](https://visitor-badge.glitch.me/badge?page_id=joaokrieger.joaokrieger)
 
 <br />
