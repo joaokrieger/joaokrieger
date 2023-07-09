@@ -1,8 +1,5 @@
 ## Hey! Welcome to my Github profile.
 
-![](https://visitor-badge.glitch.me/badge?page_id=joaokrieger.joaokrieger)
-
-<br />
 
 hi, I'm João Eduardo Krieger a passionate developer and a future software engineer. my passion for software is dreaming up ideas and making them come true with elegant interfaces. I take great care with the experience, architecture, and code quality of the things I build.
   
