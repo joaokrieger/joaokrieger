@@ -1,12 +1,12 @@
 ## Hey! Welcome to my Github profile.
 
 
-hi, I'm João Eduardo Krieger a passionate developer and a future software engineer. my passion for software is dreaming up ideas and making them come true with elegant interfaces. I take great care with the experience, architecture, and code quality of the things I build.
+hi, I'm João Eduardo Krieger a passionate developer and a software engineer. my passion for software is dreaming up ideas and making them come true with elegant interfaces. I take great care with the experience, architecture, and code quality of the things I build.
 
 i am currently dedicating myself to mobile development, focusing on Kotlin and Android development, as well as Flutter, to create responsive, user-friendly apps for both Android and iOS.
 
 💬 **Ask me anything, I'm happy to help!**  
-You can reach me via email: [joaoeduardokrieger123@gmail.com](mailto:joaoeduardokrieger123@gmail.com)
+You can reach me via [email](mailto:joaoeduardokrieger123@gmail.com)
 
 **languages and tools:**
 
